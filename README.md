@@ -1,1 +1,1 @@
-# AI mews linkedin Automation
+# AI news linkedin Automation
